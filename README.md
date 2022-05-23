@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ludwigdn/ludwigdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I' m a computer wizard that feels like a superhero who can build many things. I also like to create stuff with my hands (especially with wood). I like playing guitar, Magic the Gathering, and I recently fell into the mechanical keyboards hole.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on fun open-source stuff
+- 📫 How to reach me: Via the contact link on [my website](https://ludwigdn.dev/)
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Advertising time!
+
+[Virtuo](https://www.govirtuo.com), the company I'm working for, is recruting fullstack developers like you! Interrested into working in a company that is changing the way we use cars in cities? 
+
+🚗 [Apply right here](https://refer.hellotrusty.io/sfpd0rxmx9/jobs/62430ea8bb839b0004b2604c) 🚗 
+
+There are also other positions, so don't hesitate to share the link to someone you know 👍
