@@ -4,7 +4,6 @@ I' m a computer wizard that feels like a superhero who can build many things. I 
 
 - 👯 I’m looking to collaborate on fun open-source stuff
 - 📫 How to reach me: Via the contact link on [my website](https://ludwigdn.dev/)
-- 😄 Pronouns: He/Him
 
 ---
 
